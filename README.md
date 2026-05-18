@@ -52,8 +52,8 @@ Edit `contact.html` and replace:
 
 - Official IIT email once available
 - Office number after joining
-- Google Scholar link
-- GitHub link
+- Google Scholar link: https://scholar.google.com/citations?user=OvjT6EsAAAAJ&hl=en
+- GitHub link: https://github.com/dheerajbharti
 - ORCID link
 - LinkedIn link
 
@@ -101,3 +101,10 @@ After your IIT(ISM) profile becomes active, add the official link in `contact.ht
 ## Design philosophy
 
 The official IIT faculty page should remain the institutional page. This GitHub.io site should be the richer research identity page: lab vision, project demos, student opportunities, teaching material, publications, and research narrative.
+
+
+## Links added in this version
+
+- Google Scholar: https://scholar.google.com/citations?user=OvjT6EsAAAAJ&hl=en
+- GitHub: https://github.com/dheerajbharti
+- Website: https://dheerajbharti.github.io
