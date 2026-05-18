@@ -1,0 +1,14 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" rx="28" fill="#0F172A"/>
+  <rect x="54" y="54" width="792" height="452" rx="24" fill="#111827" stroke="#334155"/>
+  <path d="M104 384 C190 260, 302 320, 390 230 C480 138, 588 190, 696 108" stroke="#67E8F9" stroke-width="8" stroke-linecap="round"/>
+  <path d="M110 410 C240 340, 370 360, 500 310 C620 266, 700 250, 790 292" stroke="#A7F3D0" stroke-width="6" stroke-linecap="round" opacity=".75"/>
+  <g fill="#F8FAFC" opacity=".9">
+    <circle cx="142" cy="350" r="9"/><circle cx="278" cy="306" r="9"/><circle cx="410" cy="214" r="9"/><circle cx="548" cy="178" r="9"/><circle cx="696" cy="108" r="9"/>
+  </g>
+  <g stroke="#64748B" opacity=".8">
+    <path d="M136 445H765"/><path d="M136 118V445"/>
+  </g>
+  <text x="108" y="94" fill="#E2E8F0" font-family="Inter, Arial" font-size="28" font-weight="700">Field Robotics / SLAM / GNSS</text>
+  <text x="108" y="476" fill="#94A3B8" font-family="Inter, Arial" font-size="20">Replace with your project image, point cloud, or trajectory plot</text>
+</svg>
